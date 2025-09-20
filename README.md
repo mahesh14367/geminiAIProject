@@ -1,1 +1,1 @@
-This Project Integrates the GeminiAI and  request the services and get the responses accordingly.
+This Project Integrates the GeminiAI that allow us to request the service and get the responses accordingly.
